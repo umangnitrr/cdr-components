@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent">
+    <sys_ux_macroponent action="INSERT_OR_UPDATE">
+        <associated_types>d8899a0473000010f7353c78caf6a750</associated_types>
+        <category>component</category>
+        <component_dependencies/>
+        <composition>[]</composition>
+        <da_relay_models/>
+        <data/>
+        <description/>
+        <dispatched_events/>
+        <ext_controller_dep/>
+        <extends/>
+        <extension_point/>
+        <handled_events/>
+        <interactions/>
+        <interfaces/>
+        <internal_event_mappings/>
+        <layout>{}</layout>
+        <macroponent_dependencies/>
+        <name>Library Header</name>
+        <output_prop_mapping/>
+        <props>[{"name":"tags","label":"Tags","fieldType":"array","readOnly":false,"defaultValue":[],"valueType":"string","mandatory":true},{"name":"title","label":"Title","readOnly":false,"defaultValue":"","valueType":"string","mandatory":true},{"name":"subtitle","label":"Subtitle","readOnly":false,"defaultValue":"","valueType":"string","mandatory":true},{"name":"textColor","label":"Text Color","readOnly":false,"defaultValue":"#000","valueType":"string","mandatory":false}]</props>
+        <required_translations>[ ]</required_translations>
+        <root_component display_value="snc-wds-alc-detail-header">11f4d494ff1135ea9418cf3b8709f7d4</root_component>
+        <root_component_config>{"tags":"@context/tags","title":"@context/title","subtitle":"@context/subtitle","textColor":"@context/textColor"}</root_component_config>
+        <root_component_definition/>
+        <schema_version>1.0.0</schema_version>
+        <state_properties/>
+        <sys_class_name>sys_ux_macroponent</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-01 15:18:29</sys_created_on>
+        <sys_id>ab80de13252ebf0ccf38511cb5c292f6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Library Header</sys_name>
+        <sys_package display_value="CDR Library Custom Components" source="x_snc_cdr01_alc">2f1876b18759a11086bfbae4dabb3595</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CDR Library Custom Components">2f1876b18759a11086bfbae4dabb3595</sys_scope>
+        <sys_update_name>sys_ux_macroponent_ab80de13252ebf0ccf38511cb5c292f6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-01 15:18:29</sys_updated_on>
+    </sys_ux_macroponent>
+    <sys_translated_text action="delete_multiple" query="documentkey=ab80de13252ebf0ccf38511cb5c292f6"/>
+</record_update>

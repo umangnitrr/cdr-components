@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_toolbox_component">
+    <sys_uib_toolbox_component action="INSERT_OR_UPDATE">
+        <component_config/>
+        <config_layout/>
+        <description>A button for the WDS App Library</description>
+        <external_configuration_sources/>
+        <group/>
+        <group_category/>
+        <group_icon/>
+        <icon>document-outline</icon>
+        <image_icon/>
+        <internal_component>false</internal_component>
+        <label>Library Button</label>
+        <macroponent display_value="Library Button">d8068a7c575d4a424d228a7c8d226c02</macroponent>
+        <order>0</order>
+        <scripted_config_policy/>
+        <sys_class_name>sys_uib_toolbox_component</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-01 15:17:50</sys_created_on>
+        <sys_id>4613fd4d8a0cfa089da83cf413e795d2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Library Button</sys_name>
+        <sys_package display_value="CDR Library Custom Components" source="x_snc_cdr01_alc">2f1876b18759a11086bfbae4dabb3595</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CDR Library Custom Components">2f1876b18759a11086bfbae4dabb3595</sys_scope>
+        <sys_update_name>sys_uib_toolbox_component_4613fd4d8a0cfa089da83cf413e795d2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-01 15:17:50</sys_updated_on>
+    </sys_uib_toolbox_component>
+    <sys_translated_text action="delete_multiple" query="documentkey=4613fd4d8a0cfa089da83cf413e795d2"/>
+</record_update>

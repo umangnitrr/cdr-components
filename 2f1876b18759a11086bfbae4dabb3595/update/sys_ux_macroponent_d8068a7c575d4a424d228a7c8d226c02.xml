@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent">
+    <sys_ux_macroponent action="INSERT_OR_UPDATE">
+        <associated_types>d8899a0473000010f7353c78caf6a750</associated_types>
+        <category>component</category>
+        <component_dependencies/>
+        <composition>[]</composition>
+        <da_relay_models/>
+        <data/>
+        <description/>
+        <dispatched_events/>
+        <ext_controller_dep/>
+        <extends/>
+        <extension_point/>
+        <handled_events/>
+        <interactions/>
+        <interfaces/>
+        <internal_event_mappings/>
+        <layout>{}</layout>
+        <macroponent_dependencies/>
+        <name>Library Button</name>
+        <output_prop_mapping/>
+        <props>[{"name":"type","label":"Type","fieldType":"choice","readOnly":false,"typeMetadata":{"choices":[{"label":"Primary","value":"primary"}]},"defaultValue":"primary","valueType":"string","mandatory":false},{"name":"label","label":"Label","readOnly":false,"defaultValue":"Install","valueType":"string","mandatory":true}]</props>
+        <required_translations>[ ]</required_translations>
+        <root_component display_value="snc-wds-alc-button">07fe9844e27d182fa49cdee0a1139c20</root_component>
+        <root_component_config>{"type":"@context/type","label":"@context/label"}</root_component_config>
+        <root_component_definition/>
+        <schema_version>1.0.0</schema_version>
+        <state_properties/>
+        <sys_class_name>sys_ux_macroponent</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-01 15:17:48</sys_created_on>
+        <sys_id>d8068a7c575d4a424d228a7c8d226c02</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Library Button</sys_name>
+        <sys_package display_value="CDR Library Custom Components" source="x_snc_cdr01_alc">2f1876b18759a11086bfbae4dabb3595</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CDR Library Custom Components">2f1876b18759a11086bfbae4dabb3595</sys_scope>
+        <sys_update_name>sys_ux_macroponent_d8068a7c575d4a424d228a7c8d226c02</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-01 15:17:48</sys_updated_on>
+    </sys_ux_macroponent>
+    <sys_translated_text action="delete_multiple" query="documentkey=d8068a7c575d4a424d228a7c8d226c02"/>
+</record_update>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_lib_component_action">
+    <sys_ux_lib_component_action action="INSERT_OR_UPDATE">
+        <description>The button was pressed</description>
+        <name>SNCWDSALC_BUTTON#BUTTON_PRESSED</name>
+        <publisher display_value="snc-wds-alc-button">07fe9844e27d182fa49cdee0a1139c20</publisher>
+        <sys_class_name>sys_ux_lib_component_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-01 15:17:45</sys_created_on>
+        <sys_id>a26130e35ecd8b893ab7deb3ccf859fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SNCWDSALC_BUTTON#BUTTON_PRESSED</sys_name>
+        <sys_package display_value="CDR Library Custom Components" source="x_snc_cdr01_alc">2f1876b18759a11086bfbae4dabb3595</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CDR Library Custom Components">2f1876b18759a11086bfbae4dabb3595</sys_scope>
+        <sys_update_name>sys_ux_lib_component_action_a26130e35ecd8b893ab7deb3ccf859fe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-01 15:17:45</sys_updated_on>
+    </sys_ux_lib_component_action>
+    <sys_translated_text action="delete_multiple" query="documentkey=a26130e35ecd8b893ab7deb3ccf859fe"/>
+</record_update>
